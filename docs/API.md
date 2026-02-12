@@ -416,7 +416,7 @@ public interface IAuthorizationService
 
 - [User Guide](USER_GUIDE.md) - Comprehensive usage guide
 - [Getting Started](GETTING_STARTED.md) - Quick start tutorial
-- [Examples](../examples/) - Code examples and samples
+- [Contributing Guidelines](../CONTRIBUTING.md) - How to contribute to the project
 
 ---
 
