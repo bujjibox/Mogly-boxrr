@@ -85,7 +85,7 @@ Configuration files are typically stored in `appsettings.json`:
 }
 ```
 
-## �� Running Tests
+## 🧪 Running Tests
 
 To ensure everything is working correctly, run the test suite:
 
@@ -129,7 +129,7 @@ Now that you have Mogly-boxrr running, here are some suggested next steps:
 3. 💡 Check out example projects in the `examples` folder (if available)
 4. 🤝 Join our community and [contribute](../CONTRIBUTING.md) to the project
 
-## �� Getting Help
+## 🆘 Getting Help
 
 If you run into problems:
 
