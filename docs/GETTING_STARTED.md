@@ -126,8 +126,7 @@ Now that you have Mogly-boxrr running, here are some suggested next steps:
 
 1. 📖 Read the [User Guide](USER_GUIDE.md) for detailed feature documentation
 2. 🔍 Explore the [API Documentation](API.md) to understand available methods
-3. 💡 Check out example projects in the `examples` folder (if available)
-4. 🤝 Join our community and [contribute](../CONTRIBUTING.md) to the project
+3. 🤝 Join our community and [contribute](../CONTRIBUTING.md) to the project
 
 ## 🆘 Getting Help
 

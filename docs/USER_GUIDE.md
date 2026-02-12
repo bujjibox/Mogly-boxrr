@@ -382,7 +382,6 @@ Need more help? Here are your options:
 - [Getting Started Guide](GETTING_STARTED.md)
 - [API Documentation](API.md)
 - [Contributing Guidelines](../CONTRIBUTING.md)
-- [Changelog](../CHANGELOG.md)
 
 ---
 
